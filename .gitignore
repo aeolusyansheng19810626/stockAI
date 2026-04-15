@@ -7,4 +7,6 @@ charts/
 .env
 token.pickle
 vectorstore/
-token.pickle 
+token.pickle
+list_models.py
+test_gemini.py
